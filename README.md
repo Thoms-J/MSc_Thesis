@@ -7,4 +7,4 @@ GIFs and Videos: Results and extra visualizations for parts from the Thesis Docu
 
     - Tree Movement: Has Gifs from scan 1 and 2
 
-    - Beach Movement: Has screencapture videos of repetitive and non-repetitive scans of sand transport
+    - Beach Movement: Has screencapture videos from the Livox Viewer of repetitive and non-repetitive scans of sand transport
